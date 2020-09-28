@@ -1,4 +1,4 @@
-setwd("/Users/darre/Box Sync/School/Fall_2020/STAT495/phosphorylation1433")
+
 library(ggplot2)
 library(tidyverse)
 library(randomForest)
